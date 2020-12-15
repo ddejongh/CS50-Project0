@@ -2,6 +2,10 @@ html {
     font-family: 'Roboto', sans-serif; 
 }
 
+body {
+    background-color: white; 
+}
+
 .navbar {
     list-style-type: none; 
     margin: 0;
@@ -65,15 +69,3 @@ li a:hover {
     background-color: blue;
 }
 
-#avbox {
-    display: flex;
-    justfiy-content: left; 
-    margin-left: 20px; 
-    margin-right: auto; 
-}
-
-.spacing {
-    padding-right: 20px; 
-    width: 200px;
-    background-color: red;
-}
