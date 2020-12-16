@@ -6,4 +6,4 @@ Using these projects to learn web development to build my own applications in th
 
 `search/` contains all of the HTML and CSS code. 
 
-Probably also contains really bad HTML and CSS design. 
+### *Probably also contains really bad HTML and CSS design.* 
