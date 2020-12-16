@@ -6,6 +6,16 @@ body {
     background-color: white; 
 }
 
+label {
+    display: flex; 
+    flex-direction: row;
+    justify-content: flex-end;
+    text-align: right;
+    width: 400px;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+
 .navbar {
     list-style-type: none; 
     margin: 0;
@@ -60,6 +70,18 @@ li a:hover {
 .sbox {
     width: 100%;
 } 
+
+.field {
+    display: table-cell; 
+    vertical-align: middle; 
+    height: 40px;
+}
+
+.textinput {
+    height: 20px;
+    flex: 0 0 200px;
+    margin-left: 10px;
+}
 
 #searchbar {
     width: 60%;
