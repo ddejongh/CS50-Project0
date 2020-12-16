@@ -99,4 +99,7 @@ input {
 input.right {
     float: right;
     margin-right: 1%;
+    border-radius: 15px;
+    border-width: 1px;
+    margin: 2px;
 }
